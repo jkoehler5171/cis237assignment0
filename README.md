@@ -2,7 +2,7 @@
 ## Due: 9-13-2016
 
 ## Author
-
+Jordan Koehler
 ## Description
 
 You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
@@ -31,5 +31,6 @@ If you need some help on how to write proper Markdown for the README file, you c
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Outside Resources Used
-
+Pro Git
 ## Known Problems, Issues, And/Or Errors in the Program
+No issues here
